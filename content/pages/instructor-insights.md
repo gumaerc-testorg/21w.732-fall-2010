@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 title: Instructor Insights
 uid: 70eb4231-89aa-de52-63de-e12057e2722d
 ---

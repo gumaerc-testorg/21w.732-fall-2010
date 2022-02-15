@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 6f5557a2-c92c-7234-6b08-21fcea0d0c2e
 title: Exercises and In-Class Activities
 uid: f427c6f8-d9d9-cbc5-8cf5-169bc4e4bd84

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 6f5557a2-c92c-7234-6b08-21fcea0d0c2e
 title: Project I
 uid: ab63e918-4e88-33f4-ed75-00f6a431ab4d

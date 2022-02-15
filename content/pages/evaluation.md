@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Evaluation
 uid: 5770154e-36e3-b8d5-87bd-9f13bcb5cf35
 ---
