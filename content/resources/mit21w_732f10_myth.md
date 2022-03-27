@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Essays
 parent_type: CourseSection
+parent_uid: fed2ca24-607a-708f-5aa7-a3166b609472
 resourcetype: Document
 title: MIT21W_732F10_myth.pdf
 uid: 31cd055e-7a05-8e7a-a8e4-48fad7a5d70f

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exercises and In-Class Activities
 parent_type: CourseSection
+parent_uid: f427c6f8-d9d9-cbc5-8cf5-169bc4e4bd84
 resourcetype: Document
 title: MIT21W_732F10_punct_ex.pdf
 uid: 7abab618-730d-48dc-7b16-31ec0cc7a31e

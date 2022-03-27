@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Essays
 parent_type: CourseSection
+parent_uid: fed2ca24-607a-708f-5aa7-a3166b609472
 resourcetype: Document
 title: MIT21W_732F10_movie_over.pdf
 uid: a6b85fdc-10ba-aade-cbce-008719d75754

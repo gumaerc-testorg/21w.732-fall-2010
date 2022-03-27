@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: ba062c6e-f1f2-6745-89d3-f9adeb95a855
 resourcetype: Document
 title: MIT21W_732F10_amberheat.pdf
 uid: d9523177-c40e-4704-1ecc-76b760ee46bf

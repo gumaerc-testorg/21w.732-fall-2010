@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exercises and In-Class Activities
 parent_type: CourseSection
+parent_uid: f427c6f8-d9d9-cbc5-8cf5-169bc4e4bd84
 resourcetype: Document
 title: MIT21W_732F10_graph_ex.pdf
 uid: 4c59914c-75f4-7ac3-6e35-d1c817d9a5de

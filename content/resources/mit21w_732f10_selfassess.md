@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Evaluation
 parent_type: CourseSection
+parent_uid: 5770154e-36e3-b8d5-87bd-9f13bcb5cf35
 resourcetype: Document
 title: MIT21W_732F10_selfassess.pdf
 uid: fba9a790-1758-b934-8e2a-8d40574a6886

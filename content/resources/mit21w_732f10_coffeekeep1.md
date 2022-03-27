@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 20fb36ce-26a6-8e3f-6f7b-d2a695f9fb2d
 resourcetype: Document
 title: MIT21W_732F10_coffeekeep1.pdf
 uid: 5b62c0fe-c1cb-7b1f-1633-fdc19343bf5a

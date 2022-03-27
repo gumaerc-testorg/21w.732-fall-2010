@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 20fb36ce-26a6-8e3f-6f7b-d2a695f9fb2d
 resourcetype: Document
 title: MIT21W_732F10_jerklingrep.pdf
 uid: 8d6b1309-6c94-60cd-e4da-8cc3cd1f7570

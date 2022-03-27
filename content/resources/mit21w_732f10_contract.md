@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: ba062c6e-f1f2-6745-89d3-f9adeb95a855
 resourcetype: Document
 title: MIT21W_732F10_contract.pdf
 uid: f6306a3f-9bd2-8a47-45d8-2b8ae4c1f64e

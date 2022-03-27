@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Project II
 parent_type: CourseSection
+parent_uid: 02eb8143-c293-8031-2110-1b0f94640463
 resourcetype: Document
 title: MIT21W_732F10_teamagenda.pdf
 uid: efc36d0f-cfe6-b262-9274-30b09e84ffcd

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Project I
 parent_type: CourseSection
+parent_uid: ab63e918-4e88-33f4-ed75-00f6a431ab4d
 resourcetype: Document
 title: MIT21W_732F10_proj1graphic.pdf
 uid: 0becd29c-90d9-3a76-8025-156f12fa76e0

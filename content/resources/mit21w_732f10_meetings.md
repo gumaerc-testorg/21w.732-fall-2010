@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: ba062c6e-f1f2-6745-89d3-f9adeb95a855
 resourcetype: Document
 title: MIT21W_732F10_meetings.pdf
 uid: a51b1ba3-1603-9b5c-a09f-34d18a5afc71

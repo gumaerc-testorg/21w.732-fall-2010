@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6f5557a2-c92c-7234-6b08-21fcea0d0c2e
 resourcetype: Document
 title: MIT21W_732F10_ticklist.pdf
 uid: 741c59c7-f1e8-c736-b652-c14ee5912876

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 6b8877f8-ed42-de0b-33e0-36c6ba1ce336
 resourcetype: Document
 title: MIT21W_732F10_processes.pdf
 uid: 0042f953-2759-5b82-66b3-278302329991

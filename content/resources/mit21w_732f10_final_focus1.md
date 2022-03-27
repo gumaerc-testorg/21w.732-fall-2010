@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 20fb36ce-26a6-8e3f-6f7b-d2a695f9fb2d
 resourcetype: Document
 title: MIT21W_732F10_final_focus1.pdf
 uid: 990ec29d-7376-6d5e-c5c8-4470a9fe2e01

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exercises and In-Class Activities
 parent_type: CourseSection
+parent_uid: f427c6f8-d9d9-cbc5-8cf5-169bc4e4bd84
 resourcetype: Document
 title: 21W_732F10_punct_sol.pdf
 uid: f53279a8-1d2d-186b-2815-e29e6ce4ca5d
