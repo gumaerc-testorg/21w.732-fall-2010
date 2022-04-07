@@ -3,24 +3,21 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Instructor Insights
 uid: 70eb4231-89aa-de52-63de-e12057e2722d
 ---
-
-Course Overview
----------------
+## Course  Overview
 
 This page focuses on the course 21W.732 _Science Writing and New Media_ as it was taught by David Custer and Elizabeth A. Page in Fall 2010. This course is now offered under the course number 21W.033.
 
 Taught as part of MIT's [Experimental Study Group (ESG)](http://esg.mit.edu/about-esg/academic-philosophy), this course frames writing, graphics, meetings, oral presentation, collaboration, and design as tools for product development. Students work in teams to conceive, design, as well as prototype their projects while exercising and improving their communication skills. In teaching this course, David focuses on presenting dualities of learning: the humanistic and the technical, and also the communicative and collaborative.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 By the time they complete the course, students should be able to solve open-ended, interdisciplinary problems, and convey their work in both writing and oral presentation tasks. Students should be competent and confident when making lexical, textual, and rhetorical choices as they shape their communication.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -28,20 +25,19 @@ None
 
 ### Requirements Satisfied
 
-*   HASS ![](/images/educator/icon-question-hass.png)
-*   CI-H ![](/images/educator/icon-question-cih.png)
-*   CI-HW ![](/images/educator/icon-question-cihw.png)
+- HASS ![](/images/educator/icon-question-hass.png)
+- CI-H ![](/images/educator/icon-question-cih.png)
+- CI-HW ![](/images/educator/icon-question-cihw.png)
 
 ### Offered
 
 Every fall semester
 
-{{< anchor "insights" >}}{{< /anchor >}}
+{{\< anchor "insights" >}}{{\< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
-{{< quote "By providing students with an environment in which they can answer each other’s questions and refine those discoveries over time, they will learn how to apply themselves consciously as problem-solvers." "—David Custer" >}}
+{{\< quote "By providing students with an environment in which they can answer each other’s questions and refine those discoveries over time, they will learn how to apply themselves consciously as problem-solvers." "—David Custer" >}}
 
 Below, David Custer describes various aspects of teaching 21W.732 _Science Writing and New Media_.
 
@@ -59,12 +55,11 @@ The product design projects are central to the communication instruction because
 
 I see one of my significant roles as being “game-master.” As such, the challenge is to create a “world” or perhaps an “educational micro-environment” for my students and populate it with a schedule of challenges for them to undertake. Preparing for the semester is largely a question of making sure the resources are in place and the schedule is realistic. Laying out all the assignments so that the projects lead to communication in the context of instruction is one example of a scheduling challenge. In developing the course, significant time has been devoted to fine-tuning the schedule and the assignments.
 
-{{< anchor "studentinfo" >}}{{< /anchor >}}
+{{\< anchor "studentinfo" >}}{{\< /anchor >}}
 
-Student Information
--------------------
+## Student Information
 
-![On average, about 10 students take this course each year.]({{< resource_file ba1e93e1-9515-3f89-0fbe-58922e9dfda1 >}})
+!\[On average, about 10 students take this course each year.\]({{\< resource\_file ba1e93e1-9515-3f89-0fbe-58922e9dfda1 >}})
 
 ### Breakdown by Year
 
@@ -76,9 +71,9 @@ Because the subject is taken a semester before majors are declared, students tak
 
 ### Typical Student Background
 
-*   Students are asked to outline their design experience on the first day of class. They often display a wide range of experience and attitudes. There are the students who have been involved in explicit design projects (e.g., FIRST Lego® robotics competitions) and are confident in their ability to engage in the design process, while others have not participated in projects that are “labeled” as design, and are unsure of their aptitude for design work. All students, regardless of design experience, are capable of succeeding in this course.
-*   Many students take this subject because they are more interested in product design than the other flavors of CI-HW courses offered at MIT. Although this course is technically not a mechanical engineering course, it permits students to explore what it means to be a mechanical engineer during their first semester at MIT.
-*   Most students come equipped with a sound mathematical background. It is a rare student who does not have the math skills required to argue intelligently about the exponential decay of the temperature in a cup of coffee. (These students are given a very quick introduction to derivatives and e to the -kt.) Students do, however, show a wide range of backgrounds and abilities in their use of the English language. Still, if you put any six students together, they have sufficient control of 95% of the skills and knowledge needed to communicate effectively.
+- Students are asked to outline their design experience on the first day of class. They often display a wide range of experience and attitudes. There are the students who have been involved in explicit design projects (e.g., FIRST Lego® robotics competitions) and are confident in their ability to engage in the design process, while others have not participated in projects that are “labeled” as design, and are unsure of their aptitude for design work. All students, regardless of design experience, are capable of succeeding in this course.
+- Many students take this subject because they are more interested in product design than the other flavors of CI-HW courses offered at MIT. Although this course is technically not a mechanical engineering course, it permits students to explore what it means to be a mechanical engineer during their first semester at MIT.
+- Most students come equipped with a sound mathematical background. It is a rare student who does not have the math skills required to argue intelligently about the exponential decay of the temperature in a cup of coffee. (These students are given a very quick introduction to derivatives and e to the -kt.) Students do, however, show a wide range of backgrounds and abilities in their use of the English language. Still, if you put any six students together, they have sufficient control of 95% of the skills and knowledge needed to communicate effectively.
 
 ### Enrollment Cap
 
@@ -88,19 +83,16 @@ ESG generally has a limit of 12 students, and CI-HW caps at 18. Having more than
 
 The short, informal presentations early in the semester are an important component in the course. With 12 students, it is possible to have all of the students give oral presentations during a week of class time. Enrolling more students would necessitate either more class time or fewer presentations. 
 
-{{< anchor "studenttime" >}}{{< /anchor >}}
+{{\< anchor "studenttime" >}}{{\< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+## Lecture
 
 Class time consists of interactive “lectures,” discussion, exercises, oral presentations, teamwork and collaboration, design project work, writing workshops, and providing feedback and reflection. The overarching goal during class time is to foster a community in which its members feel comfortable with interacting with each other, introducing and reinforcing communication “curriculum,” and providing a legitimate context for communication.
 
-Out of Class
-------------
+## Out of Class
 
 Students engage in team meetings, conferences, and project development outside of class. They also spend time on completing a number of assignments that include writing exercises, required readings, and maintaining a design notebook.
