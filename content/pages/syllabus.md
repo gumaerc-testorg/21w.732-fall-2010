@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: 6b8877f8-ed42-de0b-33e0-36c6ba1ce336
 ---
@@ -40,7 +41,7 @@ No text is required for this course. We encourage students to own and cherish a 
 Teaching Approach
 -----------------
 
-*   Communication is both a process and a deliverable. Students will examine both the results of communication (e.g. text and presentations) and the recipes for producing such results. Five process/product pairs are emphasized: writing/graphics/presentation; reading; meetings; collaboration; and design. View the [21W.732 Processes Summary (PDF)]({{< baseurl >}}/resources/mit21w_732f10_processes).
+*   Communication is both a process and a deliverable. Students will examine both the results of communication (e.g. text and presentations) and the recipes for producing such results. Five process/product pairs are emphasized: writing/graphics/presentation; reading; meetings; collaboration; and design. View the {{< resource_link 0042f953-2759-5b82-66b3-278302329991 "21W.732 Processes Summary (PDF)" >}}.
 *   Communication improves with practice. There is no other way. Students will practice communication by communicating as necessitated by the product design process. Feedback, from both peers and instructors, on this communication produces better communication.
 *   Communication is a collaborative activity, a collaboration between the communicator and the audience. Both expect cooperation from the other. Without this cooperation, nothing is communicated. Communication can also be a collaboration among team members working together on a common task. Students will collaborate often to improve their habits as communicators.
 *   Writing and speaking are complimentary skills.

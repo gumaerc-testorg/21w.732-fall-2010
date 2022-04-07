@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: CHP_candle.jpg
 uid: 03ddf235-85dc-6608-d437-ce86796636a1
