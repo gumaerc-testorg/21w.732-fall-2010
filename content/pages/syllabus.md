@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section contains detailed information about the course including
+  assignments, logistics, grading and general expectations.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 6b8877f8-ed42-de0b-33e0-36c6ba1ce336
 ---
@@ -41,14 +42,14 @@ No text is required for this course. We encourage students to own and cherish a 
 Teaching Approach
 -----------------
 
-*   Communication is both a process and a deliverable. Students will examine both the results of communication (e.g. text and presentations) and the recipes for producing such results. Five process/product pairs are emphasized: writing/graphics/presentation; reading; meetings; collaboration; and design. View the {{< resource_link 0042f953-2759-5b82-66b3-278302329991 "21W.732 Processes Summary (PDF)" >}}.
+*   Communication is both a process and a deliverable. Students will examine both the results of communication (e.g. text and presentations) and the recipes for producing such results. Five process/product pairs are emphasized: writing/graphics/presentation; reading; meetings; collaboration; and design. View the {{% resource_link 0042f953-2759-5b82-66b3-278302329991 "21W.732 Processes Summary (PDF)" %}}.
 *   Communication improves with practice. There is no other way. Students will practice communication by communicating as necessitated by the product design process. Feedback, from both peers and instructors, on this communication produces better communication.
 *   Communication is a collaborative activity, a collaboration between the communicator and the audience. Both expect cooperation from the other. Without this cooperation, nothing is communicated. Communication can also be a collaboration among team members working together on a common task. Students will collaborate often to improve their habits as communicators.
 *   Writing and speaking are complimentary skills.
 *   To write the write, you need to read the read; to talk the talk, you need to listen.
 *   Communicators put more time and effort into communicating when subject matter is near and dear.
 
-Almost all work in 21W.732 is based on the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Peer-Review Evaluation Process (PDF)](http://pergatory.mit.edu/resources/random/Peer%20Review%20Process.pdf) design cycle, whereby individual thought develops into a collaborative project. This cycle applies to both the communication work and the product design. For more info concerning this design cycle, see: Graham, M., A. Slocum, and R. Moreno Sanchez. "Teaching High School Students and College Freshmen Product Development by Deterministic Design with PREP." _Journal of Mechanical Design_ 129 (July 2007): 677.
+Almost all work in 21W.732 is based on the [Peer-Review Evaluation Process (PDF)](http://pergatory.mit.edu/resources/random/Peer%20Review%20Process.pdf) design cycle, whereby individual thought develops into a collaborative project. This cycle applies to both the communication work and the product design. For more info concerning this design cycle, see: Graham, M., A. Slocum, and R. Moreno Sanchez. "Teaching High School Students and College Freshmen Product Development by Deterministic Design with PREP." _Journal of Mechanical Design_ 129 (July 2007): 677.
 
 Assignments
 -----------

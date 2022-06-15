@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section contains detailed information about the readings used in
+  the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: ba062c6e-f1f2-6745-89d3-f9adeb95a855
 ---
@@ -28,11 +29,11 @@ READINGS
 {{< tdopen >}}
 
 
-{{< resource_link 6b8877f8-ed42-de0b-33e0-36c6ba1ce336 "Syllabus" >}}
+{{% resource_link 6b8877f8-ed42-de0b-33e0-36c6ba1ce336 "Syllabus" %}}
 
-{{< resource_link cd60ff79-9351-cfe2-c9c9-20542b218425 "Deliverables and schedule" >}}
+{{% resource_link cd60ff79-9351-cfe2-c9c9-20542b218425 "Deliverables and schedule" %}}
 
-{{< resource_link ab63e918-4e88-33f4-ed75-00f6a431ab4d "Project I assignment" >}}
+{{% resource_link ab63e918-4e88-33f4-ed75-00f6a431ab4d "Project I assignment" %}}
 
 
 {{< tdclose >}}
@@ -47,9 +48,9 @@ READINGS
 
 Graham, M., A. Slocum, and R. Moreno Sanchez. "Teaching High School Students and College Freshmen Product Development by Deterministic Design with PREP." _Journal of Mechanical Design_ 129 (July 2007): 677.
 
-Oakley, Barbara, et al. "Turning Student Groups into Effective Teams." _Journal of Student Centered Learning_ 2, no. 1 (2004): 9. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Papers/Oakley-paper%28JSCL%29.pdf))
+Oakley, Barbara, et al. "Turning Student Groups into Effective Teams." _Journal of Student Centered Learning_ 2, no. 1 (2004): 9. ([PDF](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Papers/Oakley-paper%28JSCL%29.pdf))
 
-Philips, Patricia L. "So You're Going to be a Member of a Team." _Chemical Engineering Progress_, January 1997. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ece.msstate.edu/courses/ece4723/files/member_of_a_team4.pdf))
+Philips, Patricia L. "So You're Going to be a Member of a Team." _Chemical Engineering Progress_, January 1997. ([PDF](http://www.ece.msstate.edu/courses/ece4723/files/member_of_a_team4.pdf))
 
 "[Theory of Multiple Intelligences](http://en.wikipedia.org/wiki/Multiple_intelligences)." Wikipedia.
 
@@ -70,7 +71,7 @@ Philips, Patricia L. "So You're Going to be a Member of a Team." _Chemical Engin
 
 "[Pirate's Creed of Ethics](http://www.jollyrogercayman.com/)."
 
-"Questions to Consider to Create a Team Contract." ({{< resource_link f6306a3f-9bd2-8a47-45d8-2b8ae4c1f64e "PDF" >}})
+"Questions to Consider to Create a Team Contract." ({{% resource_link f6306a3f-9bd2-8a47-45d8-2b8ae4c1f64e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -97,7 +98,7 @@ Gopen, George, and Judith Swan. "[The Science of Scientific Writing](https://www
 
 Kishlansky, Mark A. "[How to Read a Document](http://www.clas.ufl.edu/users/sterk/junsem/reading.html)." _Sources of World History_ _Volume 1_. Wadsworth Publishing, 2006. ISBN: 9780495091516.
 
-Meetings reading from the MIT-Gordon Leadership Program. ({{< resource_link a51b1ba3-1603-9b5c-a09f-34d18a5afc71 "PDF" >}}) (Courtesy of the Gordon-MIT Engineering Leadership Program. Used with permission.)
+Meetings reading from the MIT-Gordon Leadership Program. ({{% resource_link a51b1ba3-1603-9b5c-a09f-34d18a5afc71 "PDF" %}}) (Courtesy of the Gordon-MIT Engineering Leadership Program. Used with permission.)
 
 
 {{< tdclose >}}
@@ -112,9 +113,9 @@ Meetings reading from the MIT-Gordon Leadership Program. ({{< resource_link a51b
 
 ASME. "[Ethical Standards for Authors in the Publication of ASME Journals](http://journaltool.asme.org/Help/AuthorHelp/WebHelp/JournalsHelp.htm#Guidelines/Ethical_Standards.htm)."
 
-ASME. "ASME Code of Ethics for Engineers." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/get%20involved/advocacy/policy-publications/p-15-7-ethics.pdf))
+ASME. "ASME Code of Ethics for Engineers." ([PDF](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/get%20involved/advocacy/policy-publications/p-15-7-ethics.pdf))
 
-Yates, JoAnne. "Active Listening and Reflective Responses." MIT Sloan Communication Program Teaching Note. ({{< resource_link b55ae8f9-d19a-de73-b25d-205bd3382a5e "PDF" >}}) (Courtesy of JoAnne Yates. Used with permission.)
+Yates, JoAnne. "Active Listening and Reflective Responses." MIT Sloan Communication Program Teaching Note. ({{% resource_link b55ae8f9-d19a-de73-b25d-205bd3382a5e "PDF" %}}) (Courtesy of JoAnne Yates. Used with permission.)
 
 
 {{< tdclose >}}
@@ -220,8 +221,8 @@ Pound, Ezra. "[In a Station of the Metro](http://en.wikipedia.org/wiki/In_a_Stat
 Additional Readings
 -------------------
 
-American Institute of Physics. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[AIP Style Manual. (PDF - 4.1MB)](http://kmh-lanl.hansonhub.com/AIP_Style_4thed.pdf) 1990.
+American Institute of Physics. [AIP Style Manual. (PDF - 4.1MB)](http://kmh-lanl.hansonhub.com/AIP_Style_4thed.pdf) 1990.
 
 Levi, Primo. "Argon." In _The Periodic Table_. Everyman's Library, 1996. ISBN: 9780679444633.
 
-Houghstow, Amber. "Measuring the Heat Absorption and Retention Properties of a Solar Autoclave." May 14, 2010. 2.671 Measurement and Instrumentation, MIT. ({{< resource_link d9523177-c40e-4704-1ecc-76b760ee46bf "PDF" >}}) (Courtesy of an MIT student. Used with permission.)
+Houghstow, Amber. "Measuring the Heat Absorption and Retention Properties of a Solar Autoclave." May 14, 2010. 2.671 Measurement and Instrumentation, MIT. ({{% resource_link d9523177-c40e-4704-1ecc-76b760ee46bf "PDF" %}}) (Courtesy of an MIT student. Used with permission.)

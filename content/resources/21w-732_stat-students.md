@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21w-732-science-writing-and-new-media-fall-2010/ba1e93e195153f890fbe58922e9dfda1_21W-732_stat-students.png
+file: /courses/21w-732-science-writing-and-new-media-fall-2010/ba1e93e195153f890fbe58922e9dfda1_21W-732_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''

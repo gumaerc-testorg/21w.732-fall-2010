@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21w-732-science-writing-and-new-media-fall-2010/f53279a81d2d186b2815e29e6ce4ca5d_21W_732F10_punct_sol.pdf
+file: /courses/21w-732-science-writing-and-new-media-fall-2010/f53279a81d2d186b2815e29e6ce4ca5d_21W_732F10_punct_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

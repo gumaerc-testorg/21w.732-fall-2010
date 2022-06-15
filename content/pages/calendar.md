@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section contains information about the specific topics covered during
+  the course.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: cd60ff79-9351-cfe2-c9c9-20542b218425
 ---
@@ -304,4 +305,4 @@ N/A
 
 {{< tableclose >}}
 
-Complete schedule of deliverables ({{< resource_link f1351890-b008-deda-c0f7-ed8edae50393 "PDF" >}})
+Complete schedule of deliverables ({{% resource_link f1351890-b008-deda-c0f7-ed8edae50393 "PDF" %}})
