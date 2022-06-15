@@ -1,15 +1,16 @@
 ---
 content_type: page
+description: ''
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Instructor Insights
 uid: 70eb4231-89aa-de52-63de-e12057e2722d
 ---
 ## Course  Overview
 
-This page focuses on the course 21W.732 _Science Writing and New Media_ as it was taught by David Custer and Elizabeth A. Page in Fall 2010. This course is now offered under the course number 21W.033.
+This page focuses on the course 21W.732 _Science Writing and New Media_ as it was taught by David Custer and Elizabeth A. Page in Fall 2010. This course is now offered under the course number 21W.033. 
 
 Taught as part of MIT's [Experimental Study Group (ESG)](http://esg.mit.edu/about-esg/academic-philosophy), this course frames writing, graphics, meetings, oral presentation, collaboration, and design as tools for product development. Students work in teams to conceive, design, as well as prototype their projects while exercising and improving their communication skills. In teaching this course, David focuses on presenting dualities of learning: the humanistic and the technical, and also the communicative and collaborative.
 
@@ -33,11 +34,11 @@ None
 
 Every fall semester
 
-{{\< anchor "insights" >}}{{\< /anchor >}}
+{{< anchor "insights" >}}{{< /anchor >}}
 
-## Instructor Insights
+## Instructor Interview
 
-{{\< quote "By providing students with an environment in which they can answer each other’s questions and refine those discoveries over time, they will learn how to apply themselves consciously as problem-solvers." "—David Custer" >}}
+{{< quote "By providing students with an environment in which they can answer each other’s questions and refine those discoveries over time, they will learn how to apply themselves consciously as problem-solvers." "—David Custer" >}}
 
 Below, David Custer describes various aspects of teaching 21W.732 _Science Writing and New Media_.
 
@@ -55,11 +56,13 @@ The product design projects are central to the communication instruction because
 
 I see one of my significant roles as being “game-master.” As such, the challenge is to create a “world” or perhaps an “educational micro-environment” for my students and populate it with a schedule of challenges for them to undertake. Preparing for the semester is largely a question of making sure the resources are in place and the schedule is realistic. Laying out all the assignments so that the projects lead to communication in the context of instruction is one example of a scheduling challenge. In developing the course, significant time has been devoted to fine-tuning the schedule and the assignments.
 
-{{\< anchor "studentinfo" >}}{{\< /anchor >}}
+{{< anchor "studentinfo" >}}{{< /anchor >}}
 
 ## Student Information
 
-!\[On average, about 10 students take this course each year.\]({{\< resource\_file ba1e93e1-9515-3f89-0fbe-58922e9dfda1 >}})
+### Enrollment
+
+12 students
 
 ### Breakdown by Year
 
@@ -83,16 +86,16 @@ ESG generally has a limit of 12 students, and CI-HW caps at 18. Having more than
 
 The short, informal presentations early in the semester are an important component in the course. With 12 students, it is possible to have all of the students give oral presentations during a week of class time. Enrolling more students would necessitate either more class time or fewer presentations. 
 
-{{\< anchor "studenttime" >}}{{\< /anchor >}}
+{{< anchor "studenttime" >}}{{< /anchor >}}
 
 ## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-## Lecture
+### Lecture
 
 Class time consists of interactive “lectures,” discussion, exercises, oral presentations, teamwork and collaboration, design project work, writing workshops, and providing feedback and reflection. The overarching goal during class time is to foster a community in which its members feel comfortable with interacting with each other, introducing and reinforcing communication “curriculum,” and providing a legitimate context for communication.
 
-## Out of Class
+### Out of Class
 
 Students engage in team meetings, conferences, and project development outside of class. They also spend time on completing a number of assignments that include writing exercises, required readings, and maintaining a design notebook.
