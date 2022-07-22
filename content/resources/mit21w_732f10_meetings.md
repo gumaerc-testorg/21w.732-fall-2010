@@ -6,6 +6,7 @@ file: /courses/21w-732-science-writing-and-new-media-fall-2010/a51b1ba316039b5ca
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21W_732F10_meetings.pdf
 uid: a51b1ba3-1603-9b5c-a09f-34d18a5afc71
 ---
 This resource contains information related to readings from the MIT-Gordon leadership program. 
-
