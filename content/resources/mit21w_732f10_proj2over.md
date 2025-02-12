@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This resource contains overview of project 2. '
-file: /courses/21w-732-science-writing-and-new-media-fall-2010/09c9c8f088c6aca0ec10ab7da59ebed4_MIT21W_732F10_proj2over.pdf
+file: /ol-ocw-studio-app/courses/21w-732-science-writing-and-new-media-fall-2010/09c9c8f088c6aca0ec10ab7da59ebed4_MIT21W_732F10_proj2over.pdf
+file_size: 58932
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

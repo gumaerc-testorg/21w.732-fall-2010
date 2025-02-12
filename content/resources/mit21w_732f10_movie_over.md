@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This resource contains essay overview. '
-file: /courses/21w-732-science-writing-and-new-media-fall-2010/a6b85fdc10baaadecbce008719d75754_MIT21W_732F10_movie_over.pdf
+file: /ol-ocw-studio-app/courses/21w-732-science-writing-and-new-media-fall-2010/a6b85fdc10baaadecbce008719d75754_MIT21W_732F10_movie_over.pdf
+file_size: 50242
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

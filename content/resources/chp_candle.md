@@ -3,7 +3,8 @@ content_type: resource
 description: "Students Jonathan Slocum, Flor De La Cruz, and Julie Wang work on a\
   \ project to build a coffee cop using only cardboard and rubber cement. (Image courtesy\
   \ of Dave Custer.)\r\n\r\n"
-file: /courses/21w-732-science-writing-and-new-media-fall-2010/03ddf23585dc6608d437ce86796636a1_CHP_candle.jpg
+file: /ol-ocw-studio-app/courses/21w-732-science-writing-and-new-media-fall-2010/03ddf23585dc6608d437ce86796636a1_CHP_candle.jpg
+file_size: 68780
 file_type: image/jpeg
 image_metadata:
   caption: ''

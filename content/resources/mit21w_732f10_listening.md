@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource contains information related to active listening and reflective
   responses. '
-file: /courses/21w-732-science-writing-and-new-media-fall-2010/b55ae8f9d19ade73b25d205bd3382a5e_MIT21W_732F10_listening.pdf
+file: /ol-ocw-studio-app/courses/21w-732-science-writing-and-new-media-fall-2010/b55ae8f9d19ade73b25d205bd3382a5e_MIT21W_732F10_listening.pdf
+file_size: 58670
 file_type: application/pdf
 learning_resource_types:
 - Readings

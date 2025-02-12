@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource contains information related to final project - jerkling-final
   presentation: a better speed bump that saves energy. '
-file: /courses/21w-732-science-writing-and-new-media-fall-2010/b3eab3166b8064f17602746a7202667b_MIT21W_732F10_Finalpres1.pdf
+file: /ol-ocw-studio-app/courses/21w-732-science-writing-and-new-media-fall-2010/b3eab3166b8064f17602746a7202667b_MIT21W_732F10_Finalpres1.pdf
+file_size: 1178548
 file_type: application/pdf
 learning_resource_types:
 - Projects

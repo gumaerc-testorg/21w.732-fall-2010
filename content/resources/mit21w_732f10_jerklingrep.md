@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource contains information related to final project - jerkling:
   an energy-saving speed bump. '
-file: /courses/21w-732-science-writing-and-new-media-fall-2010/8d6b13096c9460cde4da8cc3cd1f7570_MIT21W_732F10_jerklingrep.pdf
+file: /ol-ocw-studio-app/courses/21w-732-science-writing-and-new-media-fall-2010/8d6b13096c9460cde4da8cc3cd1f7570_MIT21W_732F10_jerklingrep.pdf
+file_size: 675764
 file_type: application/pdf
 learning_resource_types:
 - Projects

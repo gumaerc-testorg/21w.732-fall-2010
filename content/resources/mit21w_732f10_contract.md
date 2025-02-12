@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource contains information related to questions to consider
   to create a team contract. '
-file: /courses/21w-732-science-writing-and-new-media-fall-2010/f6306a3f9bd28a4745d82b8ae4c1f64e_MIT21W_732F10_contract.pdf
+file: /ol-ocw-studio-app/courses/21w-732-science-writing-and-new-media-fall-2010/f6306a3f9bd28a4745d82b8ae4c1f64e_MIT21W_732F10_contract.pdf
+file_size: 25823
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource contains information related to project III team member
   evaluation. '
-file: /courses/21w-732-science-writing-and-new-media-fall-2010/5016d085cf65039e72790027c98299f1_MIT21W_732F10_teameval3.pdf
+file: /ol-ocw-studio-app/courses/21w-732-science-writing-and-new-media-fall-2010/5016d085cf65039e72790027c98299f1_MIT21W_732F10_teameval3.pdf
+file_size: 90595
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

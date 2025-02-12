@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This resource contains information related to project I class notes/agenda. '
-file: /courses/21w-732-science-writing-and-new-media-fall-2010/72460e83e6e239c136ba8f59cbed7462_MIT21W_732F10_proj1notes.pdf
+file: /ol-ocw-studio-app/courses/21w-732-science-writing-and-new-media-fall-2010/72460e83e6e239c136ba8f59cbed7462_MIT21W_732F10_proj1notes.pdf
+file_size: 46785
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

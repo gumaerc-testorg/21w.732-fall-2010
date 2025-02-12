@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This resource contains information related to project 1 - coffee keeper. '
-file: /courses/21w-732-science-writing-and-new-media-fall-2010/5b62c0fec1cb7b1f1633fdc19343bf5a_MIT21W_732F10_coffeekeep1.pdf
+file: /ol-ocw-studio-app/courses/21w-732-science-writing-and-new-media-fall-2010/5b62c0fec1cb7b1f1633fdc19343bf5a_MIT21W_732F10_coffeekeep1.pdf
+file_size: 460372
 file_type: application/pdf
 learning_resource_types:
 - Projects

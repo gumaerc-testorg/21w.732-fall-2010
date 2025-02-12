@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This resource contains team meeting agenda 1. '
-file: /courses/21w-732-science-writing-and-new-media-fall-2010/efc36d0fcfe6b262927430b09e84ffcd_MIT21W_732F10_teamagenda.pdf
+file: /ol-ocw-studio-app/courses/21w-732-science-writing-and-new-media-fall-2010/efc36d0fcfe6b262927430b09e84ffcd_MIT21W_732F10_teamagenda.pdf
+file_size: 51473
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
