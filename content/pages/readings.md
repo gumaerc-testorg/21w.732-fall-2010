@@ -48,13 +48,13 @@ READINGS
 
 Graham, M., A. Slocum, and R. Moreno Sanchez. "Teaching High School Students and College Freshmen Product Development by Deterministic Design with PREP." _Journal of Mechanical Design_ 129 (July 2007): 677.
 
-Oakley, Barbara, et al. "Turning Student Groups into Effective Teams." _Journal of Student Centered Learning_ 2, no. 1 (2004): 9. ([PDF](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Papers/Oakley-paper%28JSCL%29.pdf))
+Oakley, Barbara, et al. "Turning Student Groups into Effective Teams." _Journal of Student Centered Learning_ 2, no. 1 (2004): 9. ({{% resource_link "28377624-cddf-40f8-ad13-31cc71dc8950" "PDF" %}})
 
-Philips, Patricia L. "So You're Going to be a Member of a Team." _Chemical Engineering Progress_, January 1997. ([PDF](http://www.ece.msstate.edu/courses/ece4723/files/member_of_a_team4.pdf))
+Philips, Patricia L. "So You're Going to be a Member of a Team." _Chemical Engineering Progress_, January 1997. ({{% resource_link "f6e8fbb5-84b3-4e01-bbdc-4cf9219928f5" "PDF" %}})
 
-"[Theory of Multiple Intelligences](http://en.wikipedia.org/wiki/Multiple_intelligences)." Wikipedia.
+"{{% resource_link "a4fca0d8-300d-438a-b17e-8e6250c73e52" "Theory of Multiple Intelligences" %}}." Wikipedia.
 
-[Learning styles test and interpretation](http://www.engr.ncsu.edu/learningstyles/ilsweb.html)
+{{% resource_link "0cbae477-af0b-4707-b338-16e69a9acf0c" "Learning styles test and interpretation" %}}
 
 
 {{< tdclose >}}
@@ -67,9 +67,9 @@ Philips, Patricia L. "So You're Going to be a Member of a Team." _Chemical Engin
 {{< tdopen >}}
 
 
-"[Tuckman's Stages of Group Development](http://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development)." Wikipedia.
+"{{% resource_link "885d98e4-8fd4-426d-afe5-3dab6e6b2a64" "Tuckman's Stages of Group Development" %}}." Wikipedia.
 
-"[Pirate's Creed of Ethics](http://www.jollyrogercayman.com/)."
+"{{% resource_link "f54ce0f3-0d17-4318-95f6-fb039da0a403" "Pirate's Creed of Ethics" %}}."
 
 "Questions to Consider to Create a Team Contract." ({{% resource_link f6306a3f-9bd2-8a47-45d8-2b8ae4c1f64e "PDF" %}})
 
@@ -82,8 +82,7 @@ Philips, Patricia L. "So You're Going to be a Member of a Team." _Chemical Engin
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Library info searching: [Introduction to Compendex and Inspec video  
-](http://www.youtube.com/watch?v=TbzoVI54uYU)
+Library info searching: {{% resource_link "0fcf2e3a-1199-4662-ad44-4ff364bbbc86" "Introduction to Compendex and Inspec video   " %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,9 +93,9 @@ Library info searching: [Introduction to Compendex and Inspec video
 {{< tdopen >}}
 
 
-Gopen, George, and Judith Swan. "[The Science of Scientific Writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)." _American Scientist_.
+Gopen, George, and Judith Swan. "{{% resource_link "ddaaec52-b605-46d7-b17f-6240fe15650e" "The Science of Scientific Writing" %}}." _American Scientist_.
 
-Kishlansky, Mark A. "[How to Read a Document](http://www.clas.ufl.edu/users/sterk/junsem/reading.html)." _Sources of World History_ _Volume 1_. Wadsworth Publishing, 2006. ISBN: 9780495091516.
+Kishlansky, Mark A. "{{% resource_link "94cc2749-797a-44db-8cb6-3fe72c4a8033" "How to Read a Document" %}}." _Sources of World History_ _Volume 1_. Wadsworth Publishing, 2006. ISBN: 9780495091516.
 
 Meetings reading from the MIT-Gordon Leadership Program. ({{% resource_link a51b1ba3-1603-9b5c-a09f-34d18a5afc71 "PDF" %}}) (Courtesy of the Gordon-MIT Engineering Leadership Program. Used with permission.)
 
@@ -111,9 +110,9 @@ Meetings reading from the MIT-Gordon Leadership Program. ({{% resource_link a51b
 {{< tdopen >}}
 
 
-ASME. "[Ethical Standards for Authors in the Publication of ASME Journals](http://journaltool.asme.org/Help/AuthorHelp/WebHelp/JournalsHelp.htm#Guidelines/Ethical_Standards.htm)."
+ASME. "{{% resource_link "efc70234-50a0-4be7-a1a4-08548a1e0384" "Ethical Standards for Authors in the Publication of ASME Journals" %}}."
 
-ASME. "ASME Code of Ethics for Engineers." ([PDF](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/get%20involved/advocacy/policy-publications/p-15-7-ethics.pdf))
+ASME. "ASME Code of Ethics for Engineers." ({{% resource_link "9dded8be-8c2c-4028-9fe5-ed4d302f4d2f" "PDF" %}})
 
 Yates, JoAnne. "Active Listening and Reflective Responses." MIT Sloan Communication Program Teaching Note. ({{% resource_link b55ae8f9-d19a-de73-b25d-205bd3382a5e "PDF" %}}) (Courtesy of JoAnne Yates. Used with permission.)
 
@@ -137,7 +136,7 @@ No readings
 {{< tdopen >}}
 
 
-Pogue, David. "[A Camera That Has It All? Well, Almost](http://www.nytimes.com/2005/12/08/technology/circuits/08pogue.ready.html)." _New York Times_, December 8, 2005.
+Pogue, David. "{{% resource_link "c4ad4a43-50b8-40df-b5c3-897590ab72f3" "A Camera That Has It All? Well, Almost" %}}." _New York Times_, December 8, 2005.
 
 Williams, Jim. "Should Ohm's Law Be Repealed?" _Analog Circuit Design_. Butterworth-Heinemann, 1991. ISBN: 978075069640.
 
@@ -167,9 +166,9 @@ Petroski, Henry. _Invention by Design: How Engineers Get From Thoughts to Thing_
 {{< tdopen >}}
 
 
-Jan, Tracy. "[At MIT, Chic Nudges Geek: Some Want Their School to Shed Notorious Nerd Image](http://www.boston.com/news/education/higher/articles/2008/10/15/at_mit_chic_nudges_geek/)." _The Boston Globe_, October 15, 2008.
+Jan, Tracy. "{{% resource_link "7a749413-e110-4a80-b501-97ec8a9e3971" "At MIT, Chic Nudges Geek: Some Want Their School to Shed Notorious Nerd Image" %}}." _The Boston Globe_, October 15, 2008.
 
-Nugent, Benjamin. "[The Way We Live Now: 7-29-07: Idea Lab; Who's a Nerd, Anyway?](http://query.nytimes.com/gst/fullpage.html?res=9C0CE3DC1231F93AA15754C0A9619C8B63)" _The New York Times_, July 29, 2007.
+Nugent, Benjamin. "{{% resource_link "f31f4291-fcf5-4ac9-869e-b0f6b812973c" "The Way We Live Now: 7-29-07: Idea Lab; Who's a Nerd, Anyway?" %}}" _The New York Times_, July 29, 2007.
 
 
 {{< tdclose >}}
@@ -209,7 +208,7 @@ No readings
 {{< tdopen >}}
 
 
-Pound, Ezra. "[In a Station of the Metro](http://en.wikipedia.org/wiki/In_a_Station_of_the_Metro)."
+Pound, Ezra. "{{% resource_link "c4194eb2-8710-47d2-b436-43aa3f11e36c" "In a Station of the Metro" %}}."
 
 
 {{< tdclose >}}
@@ -221,7 +220,7 @@ Pound, Ezra. "[In a Station of the Metro](http://en.wikipedia.org/wiki/In_a_Stat
 Additional Readings
 -------------------
 
-American Institute of Physics. [AIP Style Manual. (PDF - 4.1MB)](http://kmh-lanl.hansonhub.com/AIP_Style_4thed.pdf) 1990.
+American Institute of Physics. {{% resource_link "e8c76914-edd0-4a83-89fb-902697f6a87e" "AIP Style Manual. (PDF - 4.1MB)" %}} 1990.
 
 Levi, Primo. "Argon." In _The Periodic Table_. Everyman's Library, 1996. ISBN: 9780679444633.
 

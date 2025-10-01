@@ -9,7 +9,7 @@ uid: 5770154e-36e3-b8d5-87bd-9f13bcb5cf35
 
 MIT student writing and speaking self-assessment ({{% resource_link fba9a790-1758-b934-8e2a-8d40574a6886 "PDF" %}})
 
-Skills required for engineers ([PDF](http://web.mit.edu/ruff/www/1290.pdf))  
+Skills required for engineers ({{% resource_link "addd475f-c96f-4e89-997d-6fe34f0ea6b0" "PDF" %}})  
 (Use Table 1 on page 3 and circle the communication activities you have engaged in)
 
 Project II team member evaluation ({{% resource_link 60ada9e2-82e6-69af-f2d8-3ad82ea8cbb5 "PDF" %}})

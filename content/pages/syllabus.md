@@ -16,7 +16,7 @@ Seminars: 1 session / week, 1.5 hours / session
 Experimental Study Group
 ------------------------
 
-This section of the course was taught as part of MIT's [Experimental Study Group (ESG)](http://esg.mit.edu/about-esg/academic-philosophy). In contrast to the set structure of the regular curriculum, ESG's flexibility allows students to go at their own pace whenever possible and to organize their schedules to suit their needs. ESG's small classes allow students to interact more often with faculty and fellow students than is typical in larger classes, and to experiment with novel ways of learning the material.
+This section of the course was taught as part of MIT's {{% resource_link "4256a03c-1b30-4b54-9449-a1d870789127" "Experimental Study Group (ESG)" %}}. In contrast to the set structure of the regular curriculum, ESG's flexibility allows students to go at their own pace whenever possible and to organize their schedules to suit their needs. ESG's small classes allow students to interact more often with faculty and fellow students than is typical in larger classes, and to experiment with novel ways of learning the material.
 
 Prerequisites
 -------------
@@ -37,7 +37,7 @@ There is NO final exam in 21W.732.
 Text
 ----
 
-No text is required for this course. We encourage students to own and cherish a copy of their favorite style guide. Additionally, style and grammar help is available on the World Wide Web. For example, [_The Mayfield Handbook of Technical and Scientific Writing_](http://www.mhhe.com/mayfieldpub/tsw/home.htm) is a handy reference.
+No text is required for this course. We encourage students to own and cherish a copy of their favorite style guide. Additionally, style and grammar help is available on the World Wide Web. For example, {{% resource_link "1566161e-a4b0-4913-8357-df004e299ef9" "_The Mayfield Handbook of Technical and Scientific Writing_" %}} is a handy reference.
 
 Teaching Approach
 -----------------
@@ -49,7 +49,7 @@ Teaching Approach
 *   To write the write, you need to read the read; to talk the talk, you need to listen.
 *   Communicators put more time and effort into communicating when subject matter is near and dear.
 
-Almost all work in 21W.732 is based on the [Peer-Review Evaluation Process (PDF)](http://pergatory.mit.edu/resources/random/Peer%20Review%20Process.pdf) design cycle, whereby individual thought develops into a collaborative project. This cycle applies to both the communication work and the product design. For more info concerning this design cycle, see: Graham, M., A. Slocum, and R. Moreno Sanchez. "Teaching High School Students and College Freshmen Product Development by Deterministic Design with PREP." _Journal of Mechanical Design_ 129 (July 2007): 677.
+Almost all work in 21W.732 is based on the {{% resource_link "d51ba54a-a4b3-483d-8d08-14203df04f05" "Peer-Review Evaluation Process (PDF)" %}} design cycle, whereby individual thought develops into a collaborative project. This cycle applies to both the communication work and the product design. For more info concerning this design cycle, see: Graham, M., A. Slocum, and R. Moreno Sanchez. "Teaching High School Students and College Freshmen Product Development by Deterministic Design with PREP." _Journal of Mechanical Design_ 129 (July 2007): 677.
 
 Assignments
 -----------
